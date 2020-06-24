@@ -14,7 +14,7 @@ subtitle: "~欢迎佳佳同学~ <br>Hello, 佳佳:
 <br> 我觉得我真的不是你想的那样
 <br> 绝对没有你想的那么糟糕
 <br> 那真的不是我的本意
-<br> 但是有了之前的一些经历之后以后我也会很注意一些事情的处理的
+<br> 但是有之前的一些经历后以后我也会很注意一些事情的处理的
 <br> 也可能是你是有了别的人选
 <br> 然后有些心思也不在我这了
 <br> 可能他在某些方面优于我吧
@@ -78,12 +78,12 @@ url: "http://zfcluck.github.io"
 #
 #permalink: /:year/:month/:title/
 ## Format
-#highlighter: rouge
+highlighter: rouge
 #
-#textColor: #FF0000
+textColor: #FF0000
 #
 ## supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-#cover_color: orange
+cover_color: orange
 #
 ## The blog button should not be removed.
 #blog_button:
