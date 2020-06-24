@@ -1,75 +1,104 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 超哥&&佳佳
+subtitle: "~欢迎佳佳同学~ <br>Hello, 佳佳:
+<br> 今天以这样一种特殊的方式想跟你说一些话
+<br> 这几天真的很不开心
+<br> 转账事件的发生让我们之间的关系出现了比较大的问题
+<br> 我也不知道是不是真的就是因为转账的原因
+<br> 让你对我产生了比较大的想法的改变
+<br> 因为在这件事情之前就已经有了端倪
+<br> 那几天一直找你
+<br> 你一直躲着我
+<br> 我找不到你的这种感觉真的很不好很不好
+<br> 然后就心情很烦躁也特别的分心啥也不想干 一直想着这件事
+<br> 我觉得我真的不是你想的那样
+<br> 绝对没有你想的那么糟糕
+<br> 那真的不是我的本意
+<br> 但是有了之前的一些经历之后以后我也会很注意一些事情的处理的
+<br> 也可能是你是有了别的人选
+<br> 然后有些心思也不在我这了
+<br> 可能他在某些方面优于我吧
+<br> 但如果真的你觉得你喜欢别人的话
+<br> 希望你是考虑清楚的
+<br> 然后对我的看法也许可以重新考虑一下
+<br> 不要一直先入为主一口咬定了我就是多坏多不好了
+<br> 我们认识的时间不长
+<br> 接触的也不多还不够深入了解
+<br> 也许会有失误的判断吧
+<br> 但是我也意识到自己肯定也有做的不好的地方
+<br> 我就是希望自己还能有机会
+<br> 各种机会
+<br> 相信自己以后会做的越来越好
+<br> 怎么样 亲爱滴～"
+description:
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: U N NO OTHER
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
-
-# Comment
-comment:
-    disqus: leopard
-    # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
-    # uyan: 2143225  # 有言id,登录有言官网申请
-
-# Social
-social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
-    # twitter: 
-    mail: leopardpan@icloud.com
-
-
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: xxxx  
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
-
-
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+avatarDesc: LOVE | FOREVER
+url: "http://zfcluck.github.io"
+#
+## Comment
+#comment:
+#    disqus: leopard
+#    # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
+#    # uyan: 2143225  # 有言id,登录有言官网申请
+#
+## Social
+#social:
+#    weibo: 5366874726
+#    github: leopardpan
+#    # zhihu: panpanleopard
+#    # juejin: xxx
+#    jianshu: 2ada30d8d0f7
+#    # twitter:
+#    mail: leopardpan@icloud.com
 #
 #
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+## 百度统计
+## 使用博客模板请去掉或者更换 id
+#baidu:
+#    id: xxxx
+#
+## Google Analytics
+## 使用博客模板请去掉或者更换 id
+#ga:
+#    id: xxxx
+#    host: auto
 #
 #
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
-
-
-permalink: /:year/:month/:title/
-# Format
-highlighter: rouge
-
-textColor: #FF0000
-
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: clear
-
-# The blog button should not be removed.
-blog_button:
-    title: 博客主页
-
-# Navigation buttons in the front page.s
-nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
-    
-
-# Pagination
-gems: [jekyll-paginate,jekyll-sitemap]
-paginate: 20
-paginate_path: "page/:num/"
-
-
+## 《----------------- 上面的信息修改成你自己的 ---------------------------》
+##
+##
+##  _post/ 下的文章更换成你自己的文章
+##  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+##
+##
+## 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+#
+#
+#permalink: /:year/:month/:title/
+## Format
+#highlighter: rouge
+#
+#textColor: #FF0000
+#
+## supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+#cover_color: orange
+#
+## The blog button should not be removed.
+#blog_button:
+#    title: 博客主页
+#
+## Navigation buttons in the front page.s
+#nav:
+#    - {title: 所有文章, description: archive, url: '/archive'}
+#    - {title: 标签, description: tags, url: '/tags'}
+#    - {title: 关于我, description: about, url: '/about'}
+#
+#
+## Pagination
+#gems: [jekyll-paginate,jekyll-sitemap]
+#paginate: 20
+#paginate_path: "page/:num/"
+#
+#
