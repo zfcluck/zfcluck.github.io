@@ -80,7 +80,7 @@ url: "http://zfcluck.github.io"
 ## Format
 highlighter: rouge
 #
-textColor: #121212
+textColor: #8959a8
 #
 ## supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: green
